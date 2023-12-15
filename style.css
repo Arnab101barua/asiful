@@ -127,6 +127,9 @@ h2 {
     width: 50%;
     height: fit-content;
 }
+.text>h1{
+    color: black;
+}
 .image{
     width: 50%;
     height: fit-content;
